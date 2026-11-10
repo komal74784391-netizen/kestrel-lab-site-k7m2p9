@@ -1,0 +1,5 @@
+n_clusters: auto
+n_neighbors: 15
+n_eigenvectors: 10
+eigengap_search: 2
+random_state: 17
