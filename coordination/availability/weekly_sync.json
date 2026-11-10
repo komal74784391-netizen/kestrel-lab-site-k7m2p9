@@ -1,0 +1,157 @@
+{
+  "poll": "Kestrel Lab weekly code-release review sync — Michaelmas term",
+  "week_of": "2026-11-16",
+  "timezone": "Europe/London",
+  "updated_at": "2026-11-09T18:12:00Z",
+  "blocks": [
+    {
+      "id": "mon-am",
+      "label": "Monday 09:00-10:30"
+    },
+    {
+      "id": "mon-pm",
+      "label": "Monday 13:30-15:00"
+    },
+    {
+      "id": "tue-am",
+      "label": "Tuesday 09:00-10:30"
+    },
+    {
+      "id": "tue-pm",
+      "label": "Tuesday 13:30-15:00"
+    },
+    {
+      "id": "wed-am",
+      "label": "Wednesday 09:00-10:30"
+    },
+    {
+      "id": "wed-pm",
+      "label": "Wednesday 14:00-15:30"
+    },
+    {
+      "id": "thu-am",
+      "label": "Thursday 09:00-10:30"
+    },
+    {
+      "id": "thu-pm",
+      "label": "Thursday 13:30-15:00"
+    },
+    {
+      "id": "fri-am",
+      "label": "Friday 09:00-10:30"
+    }
+  ],
+  "member_names": [
+    "Sofia Lindqvist",
+    "kestrellab-admin",
+    "Ines Duarte",
+    "Nadia Petrov",
+    "Tomas Beck",
+    "oliver.chen@kestrelmail.org",
+    "Ruth Adeyemi",
+    "Jonas Falk",
+    "Mei Tanaka",
+    "Priya Nair",
+    "Oliver Chen"
+  ],
+  "member_ids": [
+    483021,
+    900117,
+    483045,
+    483077,
+    483102,
+    907754,
+    483130,
+    483158,
+    483184,
+    483207,
+    483229
+  ],
+  "availability": {
+    "483021": [
+      "mon-am",
+      "mon-pm",
+      "tue-am",
+      "tue-pm",
+      "wed-pm",
+      "thu-am",
+      "fri-am"
+    ],
+    "483045": [
+      "mon-am",
+      "tue-am",
+      "tue-pm",
+      "wed-pm",
+      "thu-pm",
+      "fri-am"
+    ],
+    "483077": [
+      "mon-pm",
+      "tue-pm",
+      "wed-pm",
+      "thu-am",
+      "fri-am"
+    ],
+    "483102": [
+      "mon-am",
+      "mon-pm",
+      "tue-am",
+      "tue-pm",
+      "wed-pm",
+      "thu-pm",
+      "fri-am"
+    ],
+    "483130": [
+      "mon-am",
+      "mon-pm",
+      "tue-pm",
+      "wed-am",
+      "wed-pm",
+      "thu-am",
+      "thu-pm"
+    ],
+    "483158": [
+      "mon-pm",
+      "tue-am",
+      "tue-pm",
+      "wed-pm",
+      "thu-am",
+      "fri-am"
+    ],
+    "483184": [
+      "mon-am",
+      "tue-am",
+      "tue-pm",
+      "wed-pm",
+      "thu-pm",
+      "fri-am"
+    ],
+    "483207": [
+      "mon-am",
+      "mon-pm",
+      "tue-am",
+      "tue-pm",
+      "wed-pm",
+      "thu-am",
+      "thu-pm"
+    ],
+    "483229": [
+      "mon-am",
+      "wed-pm"
+    ],
+    "900117": [],
+    "907754": []
+  },
+  "respondent_ids": [
+    483021,
+    483045,
+    483077,
+    483102,
+    483130,
+    483158,
+    483184,
+    483207,
+    483229
+  ],
+  "summary": "9/9 Available"
+}
