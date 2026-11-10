@@ -1,0 +1,5 @@
+n_anchors: 2500
+latent_dim: 32
+max_iter: 60
+ridge: 0.01
+random_state: 11
