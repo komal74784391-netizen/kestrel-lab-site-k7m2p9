@@ -1,0 +1,5 @@
+embed_dim: 64
+temperature: 0.15
+neighbourhood: 6
+negatives: 128
+epochs: 120
